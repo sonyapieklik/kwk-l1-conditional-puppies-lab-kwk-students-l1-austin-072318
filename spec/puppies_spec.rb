@@ -1,4 +1,5 @@
 require_relative "./spec_helper"
+require_relative "../puppies.rb"
 
 describe "RACHEL'S ANIMALS" do
   describe "#no_puppies" do
