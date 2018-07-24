@@ -2,7 +2,7 @@
 
 def no_puppies(n)
   if n > 0
-    return "No more puppies!"
+    return "Get back to your animal goals!"
   else
     return "Good job, Rachel!"
   end
@@ -12,7 +12,7 @@ end
 
 def less_puppies(n)
   if n < 3
-    return "Good Job!"
+    return "Good Job, Rachel!"
   elsif n == 3
     return "Slow Down!"
   else 
